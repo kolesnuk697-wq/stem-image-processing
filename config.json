@@ -1,0 +1,9 @@
+{
+  "input_dir": "dataset",
+  "output_dir": "results",
+  "median_kernel": 3,
+  "gamma_value": 0.6,
+  "morph_kernel": 3,
+  "add_test_noise": true,
+  "seed": 42
+}
